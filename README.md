@@ -5,3 +5,6 @@ Practice for writing shellcoding; includes the C code, the same code in NASM, an
 Both of these fall under GNU GPL 3, my code has no license as I can not be bothered, but those two programs were directly taken from 
 https://github.com/Neetx/Shellcode-Extractor
 Edited for my own purposes
+
+# NOTE ON LIVE_OVERFLOW.C
+I love you
